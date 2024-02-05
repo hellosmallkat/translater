@@ -1,4 +1,5 @@
 {
+    "id": "bf3b1646-17b1-43b5-ac31-7e097fbffd4f",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -30,7 +31,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(37, 66, 101, 1)"
+            "backgroundColor": "rgba(65, 117, 5, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -53,7 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(37, 66, 101, 1)"
+        "BackgroundColor": "rgba(65, 117, 5, 1)"
     },
     "children": [
         {
@@ -612,7 +613,6 @@
             "name": "Button1"
         }
     ],
-    "id": "bf3b1646-17b1-43b5-ac31-7e097fbffd4f",
     "thunkableVersion": 442,
     "name": "Screen1"
 }
